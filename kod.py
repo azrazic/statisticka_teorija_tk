@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  9 19:40:01 2021
 
-@author: DT User2
-"""
 from numpy import sum,random
 import pandas as pd
 import numpy as np
